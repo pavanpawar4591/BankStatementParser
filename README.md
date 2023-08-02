@@ -1,2 +1,2 @@
 # BankStatementParser
-parse the bank statement 
+for HDFC bank check 
